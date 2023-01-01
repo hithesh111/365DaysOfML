@@ -4,4 +4,6 @@ A commitment to learn ML (and related topics) every day for 365 days starting Ja
 ## References
 1. The Elements of Statistical Learning (ESLR)
 
-#### Day 1 - Introduction to Supervised Learning, Variable Types, Encodings, Two Simple Approaches to Prediction: Least Squares and Nearest Neighbors, Other Models as a variant of these two approaches
+#### Day 1: ESLR 2.1 to 2.3 
+
+Introduction to Supervised Learning, Variable Types, Encodings, Two Simple Approaches to Prediction: Least Squares and Nearest Neighbors, Other Models as a variant of these two approaches
