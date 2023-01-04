@@ -16,3 +16,6 @@ Statistical Decision Theory: Probabilistic Setup, Conditional Mean/Median as Reg
 
 Local Methods in High Dimensions: Curse of dimensionality, Nearest Neighbours not really "Near" in Nearest Neighbor models in High Dimensions, Bias-Variance Decomposition of MSE, Linear Assumption (and other Rigid Assumptions) to avoid Curse of Dimensionality.
 
+### Day 4: ESLR 2.6 to 2.7
+
+Statistical Model for Pr(X,Y), Additive error Model, Supervised Learning, Function Approximation by Least Squares Method and Maximum Likelihood Method, Structured Regression Models: Using implicit or explicit neighborhood restrictions (usually complexity constraints)
