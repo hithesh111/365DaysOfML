@@ -19,3 +19,7 @@ Local Methods in High Dimensions: Curse of dimensionality, Nearest Neighbours no
 ### Day 4: ESLR 2.6 to 2.7
 
 Statistical Model for Pr(X,Y), Additive error Model, Supervised Learning, Function Approximation by Least Squares Method and Maximum Likelihood Method, Structured Regression Models: Using implicit or explicit neighborhood restrictions (usually complexity constraints)
+
+### Day 5: ESLR 2.8
+
+Roughness Penalty or Regularization, Kernel Functions and Local Regression, Basis Functions, Splines, Dictionary Methods (Adaptively Chosen Basis Functions, eg: Neural Networks)
