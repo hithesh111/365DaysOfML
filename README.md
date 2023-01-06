@@ -23,3 +23,7 @@ Statistical Model for Pr(X,Y), Additive error Model, Supervised Learning, Functi
 ### Day 5: ESLR 2.8
 
 Roughness Penalty or Regularization, Kernel Functions and Local Regression, Basis Functions, Splines, Dictionary Methods (Adaptively Chosen Basis Functions, eg: Neural Networks)
+
+### Day 6: ESLR 2.9
+
+Model Selection and Bias - Variance Tradeoff, K Nearest Neighbours Example, Test Error, Overfitting and Underfitting
