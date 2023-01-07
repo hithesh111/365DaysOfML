@@ -3,6 +3,7 @@ A commitment to learn ML (and related topics) every day for 365 days starting Ja
 
 ## References
 1. The Elements of Statistical Learning (ESLR)
+2. Serrano.Academy Youtube Channel
 
 #### Day 1: ESLR 2.1 to 2.3 
 
@@ -27,3 +28,7 @@ Roughness Penalty or Regularization, Kernel Functions and Local Regression, Basi
 ### Day 6: ESLR 2.9
 
 Model Selection and Bias - Variance Tradeoff, K Nearest Neighbours Example, Test Error, Overfitting and Underfitting
+
+### Day 7: Serrano.Academy Unsupervised Learning
+
+Gaussian Mixture Models
