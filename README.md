@@ -31,4 +31,4 @@ Model Selection and Bias - Variance Tradeoff, K Nearest Neighbours Example, Test
 
 ### Day 7: Serrano.Academy Unsupervised Learning
 
-Gaussian Mixture Models
+Gaussian Mixture Models, Iterative Approach to fit a Mixture of Gaussians for Clustering.
