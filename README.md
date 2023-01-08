@@ -32,3 +32,7 @@ Model Selection and Bias - Variance Tradeoff, K Nearest Neighbours Example, Test
 ### Day 7: Serrano.Academy Unsupervised Learning
 
 Gaussian Mixture Models, Iterative Approach to fit a Mixture of Gaussians for Clustering.
+
+### Day 8: ESLR 3.1, 3.2
+
+Linear Methods of Regression: Introduction, Generalisation and Basis Expansions, Least Square Method of finding Model Coefficients, Normality Assumptions, Significance of Coefficients
