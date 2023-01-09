@@ -36,3 +36,5 @@ Gaussian Mixture Models, Iterative Approach to fit a Mixture of Gaussians for Cl
 ### Day 8: ESLR 3.1, 3.2
 
 Linear Methods of Regression: Introduction, Generalisation and Basis Expansions, Least Square Method of finding Model Coefficients, Normality Assumptions, Significance of Coefficients
+
+### Day 9: ESLR 3.2.1 to 3.2.4
