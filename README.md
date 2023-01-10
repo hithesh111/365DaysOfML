@@ -38,3 +38,9 @@ Gaussian Mixture Models, Iterative Approach to fit a Mixture of Gaussians for Cl
 Linear Methods of Regression: Introduction, Generalisation and Basis Expansions, Least Square Method of finding Model Coefficients, Normality Assumptions, Significance of Coefficients
 
 ### Day 9: ESLR 3.2.1 to 3.2.4
+
+Significance of Linear Coefficients, Gauss Markov Theorem, Multiple Regression from Univariate Regression, Gram Schmidt Orthogonalisation to find Coefficients, Linear Regression with Multiple Outputs
+
+### Day 10: ESLR 3.2.1 to 3.2.4
+
+Filling gaps from Day 9
