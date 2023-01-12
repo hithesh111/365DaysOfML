@@ -48,3 +48,7 @@ Filling gaps from Day 9
 ### Day 11: ESLR 3.3
 
 Subset Selection: Best Subset Selection, Forward and Backward Stepwise Selection, Forward Stagewise Regression
+
+### Day 12: ESLR 3.4.1 and 3.4.2
+
+Shrinkage Methods: Ridge and Lasso Regression
