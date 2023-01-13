@@ -52,3 +52,7 @@ Subset Selection: Best Subset Selection, Forward and Backward Stepwise Selection
 ### Day 12: ESLR 3.4.1 and 3.4.2
 
 Shrinkage Methods: Ridge and Lasso Regression
+
+### Day 13: ESLR 3.4.3
+
+Comparison of Subset Selection, Ridge Regression and Lasso Regression
