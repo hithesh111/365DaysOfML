@@ -64,3 +64,7 @@ Least Angle Regression
 ### Day 15 - ESLR 3.4.4
 
 Least Angle Regression
+
+### Day 16 - ESLR 3.5.1
+
+Methods Using Derived Input Directions: Principal Components Regression
