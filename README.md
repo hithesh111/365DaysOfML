@@ -72,3 +72,7 @@ Methods Using Derived Input Directions: Principal Components Regression
 ### Day 17 - https://atmos.washington.edu/~dennis/MatrixCalculus.pdf
 
 Matrix Differentiation Propositions and Proofs.
+
+### Day 18 - ESLR 3.5.2
+
+Partial Least Squares
