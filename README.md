@@ -76,3 +76,7 @@ Matrix Differentiation Propositions and Proofs.
 ### Day 18 - ESLR 3.5.2
 
 Partial Least Squares
+
+### Day 19 - ESLR 3.6
+
+Comparison of Selection and Shrinkage Methods
