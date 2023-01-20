@@ -80,3 +80,7 @@ Partial Least Squares
 ### Day 19 - ESLR 3.6
 
 Comparison of Selection and Shrinkage Methods
+
+### Day 20 - ESLR 3.7
+
+Multiple Outcome Shrinkage and Selection
