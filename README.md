@@ -4,6 +4,7 @@ A commitment to learn ML (and related topics) every day for 365 days starting Ja
 ## References
 1. The Elements of Statistical Learning (ESLR)
 2. Serrano.Academy Youtube Channel
+3. Ritvik Math Youtube Channel
 
 #### Day 1: ESLR 2.1 to 2.3 
 
@@ -88,3 +89,8 @@ Multiple Outcome Shrinkage and Selection
 ### Day 21 - ESLR 3.7
 
 Multiple Outcome Shrinkage and Selection
+
+### Day 22 - Kaggle Hackathon
+
+OTTO Multi Objective Recommender System: Learnt about Ranking Models as opposed to Supervised and Unsupervised Models and started off the competition with a naive baseline model submission.
+
