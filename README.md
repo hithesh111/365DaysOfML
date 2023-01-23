@@ -94,3 +94,6 @@ Multiple Outcome Shrinkage and Selection
 
 OTTO Multi Objective Recommender System: Learnt about Ranking Models as opposed to Supervised and Unsupervised Models and started off the competition with a naive baseline model submission.
 
+### Day 23 - Kaggle Hackathon
+
+OTTO Multi Objective Recommender System: Added more logic to predicting the next 'cart' and 'order' item and improved the score.
