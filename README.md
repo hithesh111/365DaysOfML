@@ -97,3 +97,7 @@ OTTO Multi Objective Recommender System: Learnt about Ranking Models as opposed 
 ### Day 23 - Kaggle Hackathon
 
 OTTO Multi Objective Recommender System: Added more logic to predicting the next 'cart' and 'order' item and improved the score.
+
+### Day 25 - Kaggle Hackathon
+
+OTTO Multi Objective Recommender System: 
