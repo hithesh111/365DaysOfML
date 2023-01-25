@@ -101,3 +101,7 @@ OTTO Multi Objective Recommender System: Added more logic to predicting the next
 ### Day 25 - Kaggle Hackathon
 
 OTTO Multi Objective Recommender System: 
+
+### Day 26 - Serrano.Academy Youtube
+
+How does Netflix recommend movies?
