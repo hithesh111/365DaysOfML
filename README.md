@@ -98,10 +98,14 @@ OTTO Multi Objective Recommender System: Learnt about Ranking Models as opposed 
 
 OTTO Multi Objective Recommender System: Added more logic to predicting the next 'cart' and 'order' item and improved the score.
 
-### Day 25 - Kaggle Hackathon
+### Day 24 - Kaggle Hackathon
 
 OTTO Multi Objective Recommender System: 
 
-### Day 26 - Serrano.Academy Youtube
+### Day 25 - Serrano.Academy Youtube
 
 How does Netflix recommend movies?
+
+### Day 26 - KMeans and Heirarchical Clustering
+
+KMeans and Heirarchical Clustering
