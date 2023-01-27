@@ -109,3 +109,7 @@ How does Netflix recommend movies?
 ### Day 26 - Serrano.Academy
 
 KMeans and Heirarchical Clustering
+
+### Day 27 - Kaggle Hackathon
+
+OTTO Multi Objective Recommender System: Tried Label Propagation method to identify clusters structure to products from browsing order of products.
