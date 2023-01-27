@@ -106,6 +106,6 @@ OTTO Multi Objective Recommender System:
 
 How does Netflix recommend movies?
 
-### Day 26 - KMeans and Heirarchical Clustering
+### Day 26 - Serrano.Academy
 
 KMeans and Heirarchical Clustering
