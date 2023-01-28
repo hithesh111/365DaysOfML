@@ -113,3 +113,7 @@ KMeans and Heirarchical Clustering
 ### Day 27 - Kaggle Hackathon
 
 OTTO Multi Objective Recommender System: Tried Label Propagation method to identify clusters structure to products from browsing order of products.
+
+### Day 27 - Kaggle Hackathon
+
+OTTO Multi Objective Recommender System: Tried one rule based method of finding key candidates (inferring from the training data) and another method of framing it as a ML problem by creating training data.
