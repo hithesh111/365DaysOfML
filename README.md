@@ -116,4 +116,4 @@ OTTO Multi Objective Recommender System: Tried Label Propagation method to ident
 
 ### Day 27 - Kaggle Hackathon
 
-OTTO Multi Objective Recommender System: Tried one rule based method of finding key candidates (inferring from the training data) and another method of framing it as a ML problem by creating training data.
+OTTO Multi Objective Recommender System: Tried one rule based method of finding key candidates (inferring from the training data) and another method of framing it as a ML problem by creating training data and ranking the probabilities
