@@ -127,3 +127,7 @@ GoDaddy Microbusiness Density Forecasting: Registered for the competition
 ### Day 30 - Serrano.Academy
 
 Dirichlet Allocation and Gibbs Sampling
+
+### Day 31 - Kaggle Hackathon
+
+OTTO Multi Objective Recommender System: Competition Deadline,Final tries
