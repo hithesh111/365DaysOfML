@@ -131,3 +131,7 @@ Dirichlet Allocation and Gibbs Sampling
 ### Day 31 - Kaggle Hackathon
 
 OTTO Multi Objective Recommender System: Competition Deadline,Final tries
+
+### Day 32 - Serrano.Academy
+
+Restricted Boltzmann Machines (RBM)
