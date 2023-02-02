@@ -135,3 +135,7 @@ OTTO Multi Objective Recommender System: Competition Deadline,Final tries
 ### Day 32 - Serrano.Academy
 
 Restricted Boltzmann Machines (RBM)
+
+### Day 33 - Kaggle Hackathon
+ 
+Going through top ranked submissions.
