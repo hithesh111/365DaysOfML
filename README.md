@@ -140,7 +140,7 @@ Restricted Boltzmann Machines (RBM)
  
 Going through top ranked submissions.
 
-### Day 34 - ESLR 3.7
+### Day 34 - ESLR 3.8
 
 Incremental Foreward Stagewise Regression
 
