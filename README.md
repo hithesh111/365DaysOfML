@@ -139,3 +139,8 @@ Restricted Boltzmann Machines (RBM)
 ### Day 33 - Kaggle Hackathon
  
 Going through top ranked submissions.
+
+### Day 34 - ESLR 3.7
+
+Incremental Foreward Stagewise Regression
+
