@@ -146,4 +146,4 @@ Incremental Foreward Stagewise Regression
 
 ### Day 35 - ESLR 3.8
 
-Coding Incremental Foreward Stagewise Regression
+Coding Incremental Foreward Stagewise Regression from Scratch
