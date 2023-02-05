@@ -18,132 +18,132 @@ Statistical Decision Theory: Probabilistic Setup, Conditional Mean/Median as Reg
 
 Local Methods in High Dimensions: Curse of dimensionality, Nearest Neighbours not really "Near" in Nearest Neighbor models in High Dimensions, Bias-Variance Decomposition of MSE, Linear Assumption (and other Rigid Assumptions) to avoid Curse of Dimensionality.
 
-### Day 4: ESLR 2.6 to 2.7
+#### Day 4: ESLR 2.6 to 2.7
 
 Statistical Model for Pr(X,Y), Additive error Model, Supervised Learning, Function Approximation by Least Squares Method and Maximum Likelihood Method, Structured Regression Models: Using implicit or explicit neighborhood restrictions (usually complexity constraints)
 
-### Day 5: ESLR 2.8
+#### Day 5: ESLR 2.8
 
 Roughness Penalty or Regularization, Kernel Functions and Local Regression, Basis Functions, Splines, Dictionary Methods (Adaptively Chosen Basis Functions, eg: Neural Networks)
 
-### Day 6: ESLR 2.9
+#### Day 6: ESLR 2.9
 
 Model Selection and Bias - Variance Tradeoff, K Nearest Neighbours Example, Test Error, Overfitting and Underfitting
 
-### Day 7: Serrano.Academy Unsupervised Learning
+#### Day 7: Serrano.Academy Unsupervised Learning
 
 Gaussian Mixture Models, Iterative Approach to fit a Mixture of Gaussians for Clustering.
 
-### Day 8: ESLR 3.1, 3.2
+#### Day 8: ESLR 3.1, 3.2
 
 Linear Methods of Regression: Introduction, Generalisation and Basis Expansions, Least Square Method of finding Model Coefficients, Normality Assumptions, Significance of Coefficients
 
-### Day 9: ESLR 3.2.1 to 3.2.4
+#### Day 9: ESLR 3.2.1 to 3.2.4
 
 Significance of Linear Coefficients, Gauss Markov Theorem, Multiple Regression from Univariate Regression, Gram Schmidt Orthogonalisation to find Coefficients, Linear Regression with Multiple Outputs
 
-### Day 10: ESLR 3.2.1 to 3.2.4
+#### Day 10: ESLR 3.2.1 to 3.2.4
 
 Filling gaps from Day 9
 
-### Day 11: ESLR 3.3
+#### Day 11: ESLR 3.3
 
 Subset Selection: Best Subset Selection, Forward and Backward Stepwise Selection, Forward Stagewise Regression
 
-### Day 12: ESLR 3.4.1 and 3.4.2
+#### Day 12: ESLR 3.4.1 and 3.4.2
 
 Shrinkage Methods: Ridge and Lasso Regression
 
-### Day 13: ESLR 3.4.3
+#### Day 13: ESLR 3.4.3
 
 Comparison of Subset Selection, Ridge Regression and Lasso Regression
 
-### Day 14: ESLR 3.4.4
+#### Day 14: ESLR 3.4.4
 
 Least Angle Regression
 
-### Day 15 - ESLR 3.4.4
+#### Day 15 - ESLR 3.4.4
 
 Least Angle Regression
 
-### Day 16 - ESLR 3.5.1
+#### Day 16 - ESLR 3.5.1
 
 Methods Using Derived Input Directions: Principal Components Regression
 
-### Day 17 - https://atmos.washington.edu/~dennis/MatrixCalculus.pdf
+#### Day 17 - https://atmos.washington.edu/~dennis/MatrixCalculus.pdf
 
 Matrix Differentiation Propositions and Proofs.
 
-### Day 18 - ESLR 3.5.2
+#### Day 18 - ESLR 3.5.2
 
 Partial Least Squares
 
-### Day 19 - ESLR 3.6
+#### Day 19 - ESLR 3.6
 
 Comparison of Selection and Shrinkage Methods
 
-### Day 20 - ESLR 3.7
+#### Day 20 - ESLR 3.7
 
 Multiple Outcome Shrinkage and Selection
 
-### Day 21 - ESLR 3.7
+#### Day 21 - ESLR 3.7
 
 Multiple Outcome Shrinkage and Selection
 
-### Day 22 - Kaggle Hackathon
+#### Day 22 - Kaggle Hackathon
 
 OTTO Multi Objective Recommender System: Learnt about Ranking Models as opposed to Supervised and Unsupervised Models and started off the competition with a naive baseline model submission.
 
-### Day 23 - Kaggle Hackathon
+#### Day 23 - Kaggle Hackathon
 
 OTTO Multi Objective Recommender System: Added more logic to predicting the next 'cart' and 'order' item and improved the score.
 
-### Day 24 - Kaggle Hackathon
+#### Day 24 - Kaggle Hackathon
 
 OTTO Multi Objective Recommender System: 
 
-### Day 25 - Serrano.Academy Youtube
+#### Day 25 - Serrano.Academy Youtube
 
 How does Netflix recommend movies?
 
-### Day 26 - Serrano.Academy
+#### Day 26 - Serrano.Academy
 
 KMeans and Heirarchical Clustering
 
-### Day 27 - Kaggle Hackathon
+#### Day 27 - Kaggle Hackathon
 
 OTTO Multi Objective Recommender System: Tried Label Propagation method to identify clusters structure to products from browsing order of products.
 
-### Day 28 - Kaggle Hackathon
+#### Day 28 - Kaggle Hackathon
 
 OTTO Multi Objective Recommender System: Tried one rule based method of finding key candidates (inferring from the training data) and another method of framing it as a ML problem by creating training data and ranking the probabilities
 
-### Day 29 - Kaggle Hackathon
+#### Day 29 - Kaggle Hackathon
 
 OTTO Multi Objective Recommender System: Bug Fixes and Time Optimsiation of the code.
 
 GoDaddy Microbusiness Density Forecasting: Registered for the competition
 
-### Day 30 - Serrano.Academy
+#### Day 30 - Serrano.Academy
 
 Dirichlet Allocation and Gibbs Sampling
 
-### Day 31 - Kaggle Hackathon
+#### Day 31 - Kaggle Hackathon
 
 OTTO Multi Objective Recommender System: Competition Deadline,Final tries
 
-### Day 32 - Serrano.Academy
+#### Day 32 - Serrano.Academy
 
 Restricted Boltzmann Machines (RBM)
 
-### Day 33 - Kaggle Hackathon
+#### Day 33 - Kaggle Hackathon
  
 Going through top ranked submissions.
 
-### Day 34 - ESLR 3.8
+#### Day 34 - ESLR 3.8
 
 Incremental Foreward Stagewise Regression
 
-### Day 35 - ESLR 3.8
+#### Day 35 - ESLR 3.8
 
 Coding Incremental Foreward Stagewise Regression from Scratch
