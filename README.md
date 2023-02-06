@@ -151,3 +151,7 @@ Coding Incremental Foreward Stagewise Regression from Scratch
 #### Day 34 - ESLR 3.8
 
 Piecewise Linear Path Algorithms
+
+#### Day 35 - ESLR 3.8
+
+Dantzig Selector
