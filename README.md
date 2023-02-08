@@ -159,3 +159,7 @@ Dantzig Selector
 #### Day 38 - ESLR 3.8
 
 Grouped Lasso
+
+#### Day 39 - ESLR 3.8
+
+Further Properties of Lasso
