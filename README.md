@@ -163,3 +163,7 @@ Grouped Lasso
 #### Day 39 - ESLR 3.8
 
 Further Properties of Lasso
+
+#### Day 40 - ESLR 3.8
+
+Pathwise Coordinate Optimization
