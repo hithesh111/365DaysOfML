@@ -167,3 +167,8 @@ Further Properties of Lasso
 #### Day 40 - ESLR 3.8
 
 Pathwise Coordinate Optimization
+
+#### Day 41 - ESLR 3.9
+
+Computational Considerations 
+
