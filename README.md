@@ -172,3 +172,6 @@ Pathwise Coordinate Optimization
 
 Computational Considerations 
 
+#### Day 42 - Serrano.Academy
+
+Denoting and Variational Autoencoders
