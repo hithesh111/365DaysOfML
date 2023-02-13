@@ -175,3 +175,7 @@ Computational Considerations
 #### Day 42 - Serrano.Academy
 
 Denoting and Variational Autoencoders
+
+#### Day 43 - Serrano.Academy
+
+Principal Component Analysis
