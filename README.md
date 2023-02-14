@@ -179,3 +179,11 @@ Denoting and Variational Autoencoders
 #### Day 43 - Serrano.Academy
 
 Principal Component Analysis
+
+#### Day 44 - ESLR 4.1
+
+Linear Methods for Classification : Introduction
+
+#### Day 45 - ESLR 4.2
+
+Linear Regression of an Indicator Matrix
