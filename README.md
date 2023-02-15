@@ -187,3 +187,7 @@ Linear Methods for Classification : Introduction
 #### Day 45 - ESLR 4.2
 
 Linear Regression of an Indicator Matrix
+
+#### Day 46 - ESLR 4.3
+
+Linear Discriminant Analysis
