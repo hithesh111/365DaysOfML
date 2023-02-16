@@ -191,3 +191,7 @@ Linear Regression of an Indicator Matrix
 #### Day 46 - ESLR 4.3
 
 Linear Discriminant Analysis
+
+#### Day 47 - ESLR 4.3.1
+
+Linear Discriminant Analysis: Regularised Discriminant Analysis
