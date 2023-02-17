@@ -195,3 +195,7 @@ Linear Discriminant Analysis
 #### Day 47 - ESLR 4.3.1
 
 Linear Discriminant Analysis: Regularised Discriminant Analysis
+
+#### Day 48 - ESLR 4.3.2
+
+Linear Discriminant Analysis: Reduced Rank Discriminant 
