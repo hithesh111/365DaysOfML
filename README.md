@@ -200,7 +200,10 @@ Linear Discriminant Analysis: Regularised Discriminant Analysis
 
 Linear Discriminant Analysis: Reduced Rank Discriminant 
 
-
-#### Day 48 - ESLR 4.3.2
+#### Day 49 - ESLR 4.3.2
 
 Linear Discriminant Analysis: Computations for LDA
+
+#### Day 50 - ESLR 4.4
+
+Logistic Regression
