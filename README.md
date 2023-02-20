@@ -207,3 +207,7 @@ Linear Discriminant Analysis: Computations for LDA
 #### Day 50 - ESLR 4.4
 
 Logistic Regression
+
+### Day 51 - ESLR 4.4.1
+
+Fitting Logistic Regression Models
