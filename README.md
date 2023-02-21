@@ -211,3 +211,7 @@ Logistic Regression
 ### Day 51 - ESLR 4.4.1
 
 Fitting Logistic Regression Models
+
+### Day 52 - ESLR 4.4.2
+
+Logistic Regression: South African Heart Disease Example
