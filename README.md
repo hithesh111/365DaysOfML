@@ -5,6 +5,7 @@ A commitment to learn ML (and related topics) every day for 365 days starting Ja
 1. The Elements of Statistical Learning (ESLR)
 2. Serrano.Academy Youtube Channel
 3. Ritvik Math Youtube Channel
+4. Linkedin Learning
 
 #### Day 1: ESLR 2.1 to 2.3 
 
