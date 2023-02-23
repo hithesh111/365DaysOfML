@@ -208,14 +208,18 @@ Linear Discriminant Analysis: Computations for LDA
 
 Logistic Regression
 
-### Day 51 - ESLR 4.4.1
+#### Day 51 - ESLR 4.4.1
 
 Fitting Logistic Regression Models
 
-### Day 52 - ESLR 4.4.2
+#### Day 52 - ESLR 4.4.2
 
 Logistic Regression: South African Heart Disease Example
 
-### Day 53 - ESLR 4.4.3
+#### Day 53 - ESLR 4.4.3
 
 Logistic Regression: Quadratic Approximations and Inference
+
+#### Day 54 - Linkedin Learning
+
+Completed the course Transformers: Text Classification for NLP using BERT. 
