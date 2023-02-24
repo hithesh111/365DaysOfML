@@ -224,3 +224,7 @@ Logistic Regression: Quadratic Approximations and Inference
 #### Day 54 - Linkedin Learning
 
 Completed the course Transformers: Text Classification for NLP using BERT. 
+
+#### Day 55 - ESLR 4.4.4
+
+L1 Regularized Logistic Regression
