@@ -228,3 +228,7 @@ Completed the course Transformers: Text Classification for NLP using BERT.
 #### Day 55 - ESLR 4.4.4
 
 L1 Regularized Logistic Regression
+
+Day 56 - ESLR 4.4.5
+
+Logistic Regression or LDA?
