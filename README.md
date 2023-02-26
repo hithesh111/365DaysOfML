@@ -232,3 +232,7 @@ L1 Regularized Logistic Regression
 Day 56 - ESLR 4.4.5
 
 Logistic Regression or LDA?
+
+Day 57 - ESLR 4.4.5
+
+Separating Hyperplanes
