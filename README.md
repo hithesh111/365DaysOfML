@@ -233,6 +233,11 @@ Day 56 - ESLR 4.4.5
 
 Logistic Regression or LDA?
 
-Day 57 - ESLR 4.4.5
+Day 57 - ESLR 4.5
 
 Separating Hyperplanes
+
+Day 58 - ESLR 4.5.1
+
+Rosenblatt's Perceptron Learning Algorithm
+
