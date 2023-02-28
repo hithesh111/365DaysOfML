@@ -241,3 +241,6 @@ Day 58 - ESLR 4.5.1
 
 Rosenblatt's Perceptron Learning Algorithm
 
+Day 59 - ESLR 4.5.2
+
+Optimal Separating Hyperplanes
