@@ -244,3 +244,7 @@ Rosenblatt's Perceptron Learning Algorithm
 Day 59 - ESLR 4.5.2
 
 Optimal Separating Hyperplanes
+
+Day 60 - Luis Serrano.Academy
+
+A Friendly Introduction to Generative Adversarial Networks
