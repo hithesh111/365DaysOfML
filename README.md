@@ -248,3 +248,7 @@ Optimal Separating Hyperplanes
 Day 60 - Luis Serrano.Academy
 
 A Friendly Introduction to Generative Adversarial Networks
+
+Day 61 - ESLR 5.1
+
+Basis Expansions and Regularization: Introduction
