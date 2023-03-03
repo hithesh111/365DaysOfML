@@ -252,3 +252,7 @@ A Friendly Introduction to Generative Adversarial Networks
 Day 61 - ESLR 5.1
 
 Basis Expansions and Regularization: Introduction
+
+Day 62: ESLR 5.2
+
+Piecewise Polynomials and Splines
