@@ -256,3 +256,7 @@ Basis Expansions and Regularization: Introduction
 Day 62: ESLR 5.2
 
 Piecewise Polynomials and Splines
+
+Day 63: ESLR 5.2.1
+
+Natural Cubic Splines
