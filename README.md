@@ -229,34 +229,38 @@ Completed the course Transformers: Text Classification for NLP using BERT.
 
 L1 Regularized Logistic Regression
 
-Day 56 - ESLR 4.4.5
+#### Day 56 - ESLR 4.4.5
 
 Logistic Regression or LDA?
 
-Day 57 - ESLR 4.5
+#### Day 57 - ESLR 4.5
 
 Separating Hyperplanes
 
-Day 58 - ESLR 4.5.1
+#### Day 58 - ESLR 4.5.1
 
 Rosenblatt's Perceptron Learning Algorithm
 
-Day 59 - ESLR 4.5.2
+#### Day 59 - ESLR 4.5.2
 
 Optimal Separating Hyperplanes
 
-Day 60 - Luis Serrano.Academy
+#### Day 60 - Luis Serrano.Academy
 
 A Friendly Introduction to Generative Adversarial Networks
 
-Day 61 - ESLR 5.1
+#### Day 61 - ESLR 5.1
 
 Basis Expansions and Regularization: Introduction
 
-Day 62: ESLR 5.2
+#### Day 62: ESLR 5.2
 
 Piecewise Polynomials and Splines
 
-Day 63: ESLR 5.2.1
+#### Day 63: ESLR 5.2.1
 
 Natural Cubic Splines
+
+#### Day 64: ESLR 5.2.2
+
+South African Heart Disease Example
