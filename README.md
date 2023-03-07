@@ -269,3 +269,6 @@ South African Heart Disease Example
 
 Phoneme Recognition
 
+#### Day 66: ESLR 5.3 - 5.4
+
+Filtering and Feature Extraction, Smoothing Splines
