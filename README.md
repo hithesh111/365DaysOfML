@@ -272,3 +272,7 @@ Phoneme Recognition
 #### Day 66: ESLR 5.3 - 5.4
 
 Filtering and Feature Extraction, Smoothing Splines
+
+#### Day 67: ESLR 5.4.1
+
+Degrees of Freedom and Smoothing Splines
