@@ -276,3 +276,7 @@ Filtering and Feature Extraction, Smoothing Splines
 #### Day 67: ESLR 5.4.1
 
 Degrees of Freedom and Smoothing Splines
+
+#### Day 68: ESLR 5.5
+
+Automatic Selection of the Smoothing Parameters
