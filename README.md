@@ -280,3 +280,7 @@ Degrees of Freedom and Smoothing Splines
 #### Day 68: ESLR 5.5
 
 Automatic Selection of the Smoothing Parameters
+
+#### Day 69: ESLR 5.5.1
+
+Fixing Degrees of Freedom
