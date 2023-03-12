@@ -284,3 +284,7 @@ Automatic Selection of the Smoothing Parameters
 #### Day 69: ESLR 5.5.1
 
 Fixing Degrees of Freedom
+
+#### Day 70: ESLR 5.5.2
+
+Automatic Selection of the Smoothing Parameters: The Bias-Variance Tradeoff
