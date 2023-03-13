@@ -292,3 +292,7 @@ Automatic Selection of the Smoothing Parameters: The Bias-Variance Tradeoff
 #### Day 71: ESLR 5.6
 
 Non Parametric Logistic Regression 
+
+#### Day 72: ESLR 5.7
+
+Multidimensional Splines
