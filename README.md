@@ -296,3 +296,7 @@ Non Parametric Logistic Regression
 #### Day 72: ESLR 5.7
 
 Multidimensional Splines
+
+#### Day 73: ESLR 5.8
+
+Regularization and Reproducing Kernel Hilbert Spaces
