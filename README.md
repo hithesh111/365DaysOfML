@@ -312,3 +312,7 @@ Examples of RKHS
 #### Day 76: ESLR 5.9
 
 Wavelet Smoothing 
+
+#### Day 77: ESLR 5.9.1
+
+Wavelet Bases and Wavelet Transform
