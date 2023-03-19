@@ -316,3 +316,7 @@ Wavelet Smoothing
 #### Day 77: ESLR 5.9.1
 
 Wavelet Bases and Wavelet Transform
+
+#### Day 78: ESLR 5.9.2
+
+Adaptive Wavelet Filtering
