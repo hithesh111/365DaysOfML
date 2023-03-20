@@ -6,6 +6,7 @@ A commitment to learn ML (and related topics) every day for 365 days starting Ja
 2. Serrano.Academy Youtube Channel
 3. Ritvik Math Youtube Channel
 4. Linkedin Learning
+5. 2 Minute Papers Youtube Channel
 
 #### Day 1: ESLR 2.1 to 2.3 
 
@@ -320,3 +321,7 @@ Wavelet Bases and Wavelet Transform
 #### Day 78: ESLR 5.9.2
 
 Adaptive Wavelet Filtering
+
+#### Day 79: 2 Minute Papers
+
+DALLE-2 for Music Generation
