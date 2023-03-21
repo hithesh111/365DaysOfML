@@ -325,3 +325,7 @@ Adaptive Wavelet Filtering
 #### Day 79: 2 Minute Papers
 
 DALLE-2 for Music Generation
+
+#### Day 80: ESLR 5 - Appendix
+
+Computation for Splines
