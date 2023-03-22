@@ -329,3 +329,7 @@ DALLE-2 for Music Generation
 #### Day 80: ESLR 5 - Appendix
 
 Computation for Splines
+
+#### Day 81: ESLR 5 - Appendix
+
+Computation for Smoothing Splines
