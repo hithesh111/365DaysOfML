@@ -333,3 +333,7 @@ Computation for Splines
 #### Day 81: ESLR 5 - Appendix
 
 Computation for Smoothing Splines
+
+#### Day 82: ESLR 6
+
+Introduction to Kernel Smoothing Methods
