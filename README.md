@@ -337,3 +337,7 @@ Computation for Smoothing Splines
 #### Day 82: ESLR 6
 
 Introduction to Kernel Smoothing Methods
+
+#### Day 83: ESLR 6.1
+
+1 Dimensional Kernel Smoothing
