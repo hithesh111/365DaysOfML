@@ -341,3 +341,13 @@ Introduction to Kernel Smoothing Methods
 #### Day 83: ESLR 6.1
 
 1 Dimensional Kernel Smoothing
+
+#### Day 84: ESLR 6.1.1
+
+Local Linear Regression
+
+#### Day 85: ESLR 6.1.2
+
+Local Polynomial Regression
+
+
