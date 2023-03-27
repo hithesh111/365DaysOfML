@@ -7,6 +7,7 @@ A commitment to learn ML (and related topics) every day for 365 days starting Ja
 3. Ritvik Math Youtube Channel
 4. Linkedin Learning
 5. 2 Minute Papers Youtube Channel
+6. StatQuest Youtube Channel by Josh Starmer
 
 #### Day 1: ESLR 2.1 to 2.3 
 
@@ -350,4 +351,7 @@ Local Linear Regression
 
 Local Polynomial Regression
 
+#### Day 86: Statquest
+
+Decision Trees, Gini Impurity
 
