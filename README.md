@@ -355,3 +355,6 @@ Local Polynomial Regression
 
 Decision Trees, Gini Impurity
 
+#### Day 87: Statquest
+
+Gradient Boost Part 1: Main Regression Ideas
