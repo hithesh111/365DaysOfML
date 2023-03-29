@@ -358,3 +358,8 @@ Decision Trees, Gini Impurity
 #### Day 87: Statquest
 
 Gradient Boost Part 1: Main Regression Ideas
+
+#### Day 88: Statquest
+
+Decision Trees and Pruning
+
