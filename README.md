@@ -366,3 +366,9 @@ Decision Trees and Pruning
 #### Day 89: Statquest
 
 XGBoost
+
+#### Day 90: 2 Minute Papers
+
+OpenAI GPT4 - The Future is Here
+
+
