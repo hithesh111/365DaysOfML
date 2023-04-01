@@ -371,4 +371,6 @@ XGBoost
 
 OpenAI GPT4 - The Future is Here
 
+#### Day 91: 2 Minute Papers
 
+Mid journey AI - A League Above DALL-E 2
