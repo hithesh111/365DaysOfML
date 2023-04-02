@@ -374,3 +374,7 @@ OpenAI GPT4 - The Future is Here
 #### Day 91: 2 Minute Papers
 
 Mid journey AI - A League Above DALL-E 2
+
+#### Day 92: 2 Minute Papers
+
+EA's New AI - Next Level Games are Coming
