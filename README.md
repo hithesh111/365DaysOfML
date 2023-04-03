@@ -365,7 +365,7 @@ Decision Trees and Pruning
 
 #### Day 89: Statquest
 
-XGBoost
+XGBoost for Regression
 
 #### Day 90: 2 Minute Papers
 
@@ -378,3 +378,7 @@ Mid journey AI - A League Above DALL-E 2
 #### Day 92: 2 Minute Papers
 
 EA's New AI - Next Level Games are Coming
+
+#### Day 93: Statquest
+
+XGBoost for Classification
