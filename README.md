@@ -382,3 +382,8 @@ EA's New AI - Next Level Games are Coming
 #### Day 93: Statquest
 
 XGBoost for Classification
+
+#### Day 94: Arxiv.org
+
+XGBoost: A Scalable Tree Boosting System
+
