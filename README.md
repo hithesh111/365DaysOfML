@@ -8,6 +8,7 @@ A commitment to learn ML (and related topics) every day for 365 days starting Ja
 4. Linkedin Learning
 5. 2 Minute Papers Youtube Channel
 6. StatQuest Youtube Channel by Josh Starmer
+7. Arxiv.org
 
 #### Day 1: ESLR 2.1 to 2.3 
 
