@@ -388,3 +388,10 @@ XGBoost for Classification
 
 XGBoost: A Scalable Tree Boosting System
 
+#### Day 95: 2 Minute Papers
+
+DeepMind's AlphaFold AI
+
+#### Day 96: 2 Minute Papers
+
+OpenAI's GPT4
