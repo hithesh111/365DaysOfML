@@ -395,3 +395,7 @@ DeepMind's AlphaFold AI
 #### Day 96: 2 Minute Papers
 
 OpenAI's GPT4
+
+#### Day 97: 2 Minute Papers
+
+Microsoft's new AI clones your voice in 3 seconds 
