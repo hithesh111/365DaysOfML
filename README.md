@@ -399,3 +399,7 @@ OpenAI's GPT4
 #### Day 97: 2 Minute Papers
 
 Microsoft's new AI clones your voice in 3 seconds 
+
+#### Day 98: 2 Minute Papers
+
+OpenAI's ChatGPT took an IQ test
