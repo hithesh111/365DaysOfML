@@ -403,3 +403,15 @@ Microsoft's new AI clones your voice in 3 seconds
 #### Day 98: 2 Minute Papers
 
 OpenAI's ChatGPT took an IQ test
+
+#### Day 99: ESLR 6.2
+
+Selecting width of a Kernel
+
+#### Day 100: ESLR 6.3
+
+Local Regression in Rp
+
+#### Day 101: ESLR 6.4.1
+
+Structured Kernels
