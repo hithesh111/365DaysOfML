@@ -415,3 +415,7 @@ Local Regression in Rp
 #### Day 101: ESLR 6.4.1
 
 Structured Kernels
+
+#### Day 102: ESLR 6.4.2
+
+Structured Regression Functions
