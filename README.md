@@ -419,3 +419,7 @@ Structured Kernels
 #### Day 102: ESLR 6.4.2
 
 Structured Regression Functions
+
+#### Day 103: ESLR 6.5
+
+Local Likelihood and Other Models
