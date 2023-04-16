@@ -423,3 +423,11 @@ Structured Regression Functions
 #### Day 103: ESLR 6.5
 
 Local Likelihood and Other Models
+
+#### Day 104: ESLR 6.6.1
+
+Kernel Density Estimation
+
+#### Day 105: ESLR 6.6.2
+
+Kernel Density Classification
