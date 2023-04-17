@@ -435,3 +435,7 @@ Kernel Density Classification
 #### Day 106: ESLR 6.6.3
 
 Naive Bayes Classifier
+
+#### Day 107: ESLR 6.7
+
+Radial Basis Functions and Kernels
