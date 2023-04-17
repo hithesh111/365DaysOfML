@@ -431,3 +431,7 @@ Kernel Density Estimation
 #### Day 105: ESLR 6.6.2
 
 Kernel Density Classification
+
+#### Day 106: ESLR 6.6.3
+
+Naive Bayes Classifier
