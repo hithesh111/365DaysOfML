@@ -439,3 +439,7 @@ Naive Bayes Classifier
 #### Day 107: ESLR 6.7
 
 Radial Basis Functions and Kernels
+
+#### Day 108: 2 Minute Papers
+
+OpenAI's GPT4 - Next Level AI Assistant!
