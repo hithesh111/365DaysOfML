@@ -447,3 +447,7 @@ OpenAI's GPT4 - Next Level AI Assistant!
 #### Day 109: ESLR 6.8
 
 Mixture Models for Density Estimation and Classification
+
+#### Day 110: 2 Minute Papers
+
+Midjourney AI Version 5
