@@ -456,6 +456,10 @@ Midjourney AI Version 5
 
 Computational Considerations
 
-#### Day 112: 2 Minute Papers
+#### Day 113: 2 Minute Papers
+
+NVIDIA's New AI: Better Games are Coming.
+
+#### Day 113: 2 Minute Papers
 
 25 ChatGPT AIs play a game.
