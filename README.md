@@ -455,3 +455,7 @@ Midjourney AI Version 5
 #### Day 111: ESLR 6.9
 
 Computational Considerations
+
+#### Day 112: 2 Minute Papers
+
+25 ChatGPT AIs play a game.
