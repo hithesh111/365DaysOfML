@@ -456,7 +456,7 @@ Midjourney AI Version 5
 
 Computational Considerations
 
-#### Day 113: 2 Minute Papers
+#### Day 112: 2 Minute Papers
 
 NVIDIA's New AI: Better Games are Coming.
 
