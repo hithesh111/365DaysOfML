@@ -463,3 +463,7 @@ NVIDIA's New AI: Better Games are Coming.
 #### Day 113: 2 Minute Papers
 
 25 ChatGPT AIs play a game.
+
+#### Day 114: 2 Minute Papers
+
+DeepMind's New AI: 10 Years of Learning in Seconds
