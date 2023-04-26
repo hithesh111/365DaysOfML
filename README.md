@@ -467,3 +467,8 @@ NVIDIA's New AI: Better Games are Coming.
 #### Day 114: 2 Minute Papers
 
 DeepMind's New AI: 10 Years of Learning in Seconds
+
+### Day 115: 2 Minute Papers
+
+OpenAI's Whisper Learnt 680,000 hours of speech
+
