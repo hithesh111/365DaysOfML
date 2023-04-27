@@ -472,3 +472,6 @@ DeepMind's New AI: 10 Years of Learning in Seconds
 
 OpenAI's Whisper Learnt 680,000 hours of speech
 
+### Day 116: 2 Minute Papers
+
+Stable Diffusion is getting Outrageously Good
