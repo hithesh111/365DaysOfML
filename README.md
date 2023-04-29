@@ -479,3 +479,8 @@ Stable Diffusion is getting Outrageously Good
 ### Day 117: Statquest
 
 Catboost Part 1 : Ordered Target Encoding
+
+#### Day 118 - ESLR 7.1
+
+Model Assessment and Selection 
+
