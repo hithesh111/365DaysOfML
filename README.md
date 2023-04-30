@@ -480,7 +480,10 @@ Stable Diffusion is getting Outrageously Good
 
 Catboost Part 1 : Ordered Target Encoding
 
-#### Day 118 - ESLR 7.1
+### Day 118 - ESLR 7.1
 
 Model Assessment and Selection 
 
+### Day 119 - ESLR 7.2
+
+Bias, Variance and Model Complexity
