@@ -487,3 +487,7 @@ Model Assessment and Selection
 ### Day 119 - ESLR 7.2
 
 Bias, Variance and Model Complexity
+
+### Day 120 - ESLR 7.3
+
+The Bias Variance Decomposition
