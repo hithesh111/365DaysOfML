@@ -491,3 +491,7 @@ Bias, Variance and Model Complexity
 ### Day 120 - ESLR 7.3
 
 The Bias Variance Decomposition
+
+### Day 121 - ESLR 7.3.1
+
+Example: Bias Variance Tradeoff
