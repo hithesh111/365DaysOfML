@@ -495,3 +495,11 @@ The Bias Variance Decomposition
 ### Day 121 - ESLR 7.3.1
 
 Example: Bias Variance Tradeoff
+
+### Day 122 - ESLR 7.4
+
+Optimism of the training error rate
+
+### Day 123 - ESLR 7.5
+
+Estimates of In-Sample Prediction Error 
