@@ -503,3 +503,7 @@ Optimism of the training error rate
 ### Day 123 - ESLR 7.5
 
 Estimates of In-Sample Prediction Error 
+
+### Day 124 - ESLR 7.6
+
+The Effective Number of Parameters
