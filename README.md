@@ -507,3 +507,7 @@ Estimates of In-Sample Prediction Error
 ### Day 124 - ESLR 7.6
 
 The Effective Number of Parameters
+
+### Day 125 - ESLR 7.7
+
+Bayesian Information Criteria
