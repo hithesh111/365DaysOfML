@@ -511,3 +511,7 @@ The Effective Number of Parameters
 ### Day 125 - ESLR 7.7
 
 Bayesian Information Criteria
+
+### Day 126 - ESLR 7.8
+
+Minimum Description Length
