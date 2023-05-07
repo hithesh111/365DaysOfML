@@ -515,3 +515,7 @@ Bayesian Information Criteria
 ### Day 126 - ESLR 7.8
 
 Minimum Description Length
+
+### Day 127 - ESLR 7.9
+
+VC Dimension
