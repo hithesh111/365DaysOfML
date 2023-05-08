@@ -519,3 +519,7 @@ Minimum Description Length
 ### Day 127 - ESLR 7.9
 
 VC Dimension
+
+### Day 128 - ESLR 7.10 - 7.10.2
+
+Cross Validation
