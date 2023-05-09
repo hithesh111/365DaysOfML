@@ -523,3 +523,7 @@ VC Dimension
 ### Day 128 - ESLR 7.10 - 7.10.2
 
 Cross Validation
+
+### Day 129 - ESLR 7.10.3
+
+Cross Validation 
