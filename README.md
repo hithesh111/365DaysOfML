@@ -527,3 +527,7 @@ Cross Validation
 ### Day 129 - ESLR 7.10.3
 
 Cross Validation 
+
+#### Day 130 - ESLR 7.11
+
+Boostrap Methods
