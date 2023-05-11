@@ -531,3 +531,7 @@ Cross Validation
 #### Day 130 - ESLR 7.11
 
 Boostrap Methods
+
+#### Day 131 - ESLR 7.12
+
+Conditional or Expected Test Error
