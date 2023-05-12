@@ -535,3 +535,8 @@ Boostrap Methods
 #### Day 131 - ESLR 7.12
 
 Conditional or Expected Test Error
+
+#### Day 132 - ESLR 2.1 - 2.5
+
+Revision of Introduction to Supervised Learning
+
