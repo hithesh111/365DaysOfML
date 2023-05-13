@@ -540,3 +540,8 @@ Conditional or Expected Test Error
 
 Revision of Introduction to Supervised Learning
 
+#### Day 133 - ESLR 2.6 - 2.8
+
+Revision
+
+
