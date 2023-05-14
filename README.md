@@ -544,4 +544,7 @@ Revision of Introduction to Supervised Learning
 
 Revision
 
+#### Day 134 - ESLR 8.1
+
+Model Inferencing and Averaging Introduction 
 
