@@ -548,3 +548,10 @@ Revision
 
 Model Inferencing and Averaging Introduction 
 
+#### Day 135 - ESLR 8.2.1
+
+A Smoothing Example
+
+#### Day 136 - ESLR 8.2.2
+
+Maximum Likelihood Inference
