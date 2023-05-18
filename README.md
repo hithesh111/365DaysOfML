@@ -555,3 +555,11 @@ A Smoothing Example
 #### Day 136 - ESLR 8.2.2
 
 Maximum Likelihood Inference
+
+#### Day 137 - ESLR 8.2.3
+
+Bootstrap vs Maximum Likelihood
+
+#### Day 138 - ESLR 8.3
+
+Bayesian methods
