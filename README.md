@@ -563,3 +563,7 @@ Bootstrap vs Maximum Likelihood
 #### Day 138 - ESLR 8.3
 
 Bayesian methods
+
+#### Day 139 - ESLR 8.4
+
+Relationship between bootstrap and Bayesian inference
