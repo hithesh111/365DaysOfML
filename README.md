@@ -567,3 +567,7 @@ Bayesian methods
 #### Day 139 - ESLR 8.4
 
 Relationship between bootstrap and Bayesian inference
+
+#### Day 139 - ESLR 8.5
+
+EM Maximization
