@@ -568,6 +568,10 @@ Bayesian methods
 
 Relationship between bootstrap and Bayesian inference
 
-#### Day 139 - ESLR 8.5
+#### Day 140 - ESLR 8.5
 
 EM Maximization
+
+#### Day 141 - 2 Minute Papers
+
+Structure and Content Guided Video Synthesis with Diffusion models
