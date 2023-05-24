@@ -575,3 +575,11 @@ EM Maximization
 #### Day 141 - 2 Minute Papers
 
 Structure and Content Guided Video Synthesis with Diffusion models
+
+#### Day 142 - ESLR 8.5.1
+
+Two component Mixture Model
+
+#### Day 143 - ESLR 8.5.2
+
+The EM Algorithm in General
