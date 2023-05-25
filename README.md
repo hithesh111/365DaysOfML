@@ -583,3 +583,7 @@ Two component Mixture Model
 #### Day 143 - ESLR 8.5.2
 
 The EM Algorithm in General
+
+#### Day 144 - ESLR 8.5.3
+
+EM as Maximization Maximization Procedure
