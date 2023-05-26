@@ -587,3 +587,7 @@ The EM Algorithm in General
 #### Day 144 - ESLR 8.5.3
 
 EM as Maximization Maximization Procedure
+
+#### Day 145 - ESLR 8.6
+
+MCMC for Sampling from the Posterior
