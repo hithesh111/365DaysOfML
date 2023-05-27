@@ -591,3 +591,7 @@ EM as Maximization Maximization Procedure
 #### Day 145 - ESLR 8.6
 
 MCMC for Sampling from the Posterior
+
+#### Day 146 - ESLR 8.6
+
+Gibbs Sampling for Mixtures
