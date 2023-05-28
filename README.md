@@ -595,3 +595,7 @@ MCMC for Sampling from the Posterior
 #### Day 146 - ESLR 8.6
 
 Gibbs Sampling for Mixtures
+
+#### Day 147 - ESLR 8.7
+
+Bagging
