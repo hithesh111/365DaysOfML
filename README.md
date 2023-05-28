@@ -599,3 +599,7 @@ Gibbs Sampling for Mixtures
 #### Day 147 - ESLR 8.7
 
 Bagging
+
+#### Day 148 - ESLR 8.7.1
+
+Bagging Example: Trees with Simulated Data
