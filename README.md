@@ -603,3 +603,7 @@ Bagging
 #### Day 148 - ESLR 8.7.1
 
 Bagging Example: Trees with Simulated Data
+
+#### Day 149 - ESLR 8.8
+
+Model Averaging and Stacking
