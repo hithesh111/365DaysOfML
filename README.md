@@ -607,3 +607,7 @@ Bagging Example: Trees with Simulated Data
 #### Day 149 - ESLR 8.8
 
 Model Averaging and Stacking
+
+#### Day 150 - ESLR 8.9
+
+Stochastic Search: Bumping
