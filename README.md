@@ -608,10 +608,14 @@ Bagging Example: Trees with Simulated Data
 
 Model Averaging and Stacking
 
-### Day 150 - ESLR 8.9
+#### Day 150 - ESLR 8.9
 
 Stochastic Search: Bumping
 
-### Day 151 - 2 Minute Papers
+#### Day 151 - 2 Minute Papers
 
 Google Bard: Is it better than ChatGPT?
+
+#### Day 152 - ESLR 9.1
+
+Generalized Additive Models
