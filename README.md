@@ -619,3 +619,7 @@ Google Bard: Is it better than ChatGPT?
 #### Day 152 - ESLR 9.1
 
 Generalized Additive Models
+
+#### Day 153 - 2 Minute Papers
+
+DeepMind's AI Athletes Play in the Real World 
