@@ -623,3 +623,7 @@ Generalized Additive Models
 #### Day 153 - 2 Minute Papers
 
 DeepMind's AI Athletes Play in the Real World 
+
+#### Day 154 - ESLR 9.1.1
+
+Fitting Additive Models
