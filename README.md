@@ -627,3 +627,7 @@ DeepMind's AI Athletes Play in the Real World
 #### Day 154 - ESLR 9.1.1
 
 Fitting Additive Models
+
+#### Day 155 - 2 Minute Papers
+
+OpenAI's GPT4 - Eccentric Genius AI
