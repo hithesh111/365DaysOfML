@@ -631,3 +631,7 @@ Fitting Additive Models
 #### Day 155 - 2 Minute Papers
 
 OpenAI's GPT4 - Eccentric Genius AI
+
+#### Day 156 - ESLR 9.1.2
+
+Example: Additive Regional Model
