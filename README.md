@@ -634,8 +634,12 @@ OpenAI's GPT4 - Eccentric Genius AI
 
 #### Day 156 - ESLR 9.1.2
 
-Example: Additive Regional Model
+Example: Additive Regression Model
 
 #### Day 157 - ESLR 9.1.3
 
 Example: Predicting Email Spam
+
+#### Day 158 - ESLR 9.1.3
+
+Summary of Additive Regression Model
