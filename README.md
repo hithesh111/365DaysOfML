@@ -647,3 +647,7 @@ Summary of Additive Regression Model
 #### Day 159 - ESLR 9.2.1
 
 Tree Based Methods: Background
+
+#### Day 160 - ESLR 9.2
+
+Tree Based Methods: Classification Trees, Regression Trees and Other Issues
