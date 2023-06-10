@@ -651,3 +651,9 @@ Tree Based Methods: Background
 #### Day 160 - ESLR 9.2
 
 Tree Based Methods: Classification Trees, Regression Trees and Other Issues
+
+#### Day 161 - ESLR 9.3
+
+Patient Rule Induction Method
+
+Tree Based Methods: Classification Trees, Regression Trees and Other Issues
