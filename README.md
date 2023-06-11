@@ -656,6 +656,6 @@ Tree Based Methods: Classification Trees, Regression Trees and Other Issues
 
 Patient Rule Induction Method
 
-#### Day 161 - ESLR 9.3
+#### Day 162 - ESLR 9.4
 
 Multivariate Adaptive Regression Splines
