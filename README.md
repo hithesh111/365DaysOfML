@@ -627,7 +627,6 @@ DeepMind's AI Athletes Play in the Real World
 #### Day 154 - ESLR 9.1.1
 
 Fitting Additive Models
-
 #### Day 155 - 2 Minute Papers
 
 OpenAI's GPT4 - Eccentric Genius AI
@@ -659,3 +658,7 @@ Patient Rule Induction Method
 #### Day 162 - ESLR 9.4
 
 Multivariate Adaptive Regression Splines
+
+#### Day 163 - 2 Minute Papers
+
+NVIDIA's New AI mastered MineCraft 15x faster
