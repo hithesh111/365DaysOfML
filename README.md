@@ -662,3 +662,9 @@ Multivariate Adaptive Regression Splines
 #### Day 163 - 2 Minute Papers
 
 NVIDIA's New AI mastered MineCraft 15x faster
+
+#### Day 164 - ESLR 9.4.2 - 9.4.3
+
+MARS Examples and Issues
+
+Multivariate Adaptive Regression Splines
