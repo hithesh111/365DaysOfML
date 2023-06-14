@@ -667,4 +667,6 @@ NVIDIA's New AI mastered MineCraft 15x faster
 
 MARS Examples and Issues
 
-Multivariate Adaptive Regression Splines
+#### Day 165 - ESLR 9.4.4 - 9.4.5
+
+Missing Data and Computational Considerations
