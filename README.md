@@ -670,3 +670,7 @@ MARS Examples and Issues
 #### Day 165 - ESLR 9.4.4 - 9.4.5
 
 Missing Data and Computational Considerations
+
+#### Day 166 - 2 Minute Papers
+
+Photoshop's New AI Feature is Amazing
