@@ -674,3 +674,7 @@ Missing Data and Computational Considerations
 #### Day 166 - 2 Minute Papers
 
 Photoshop's New AI Feature is Amazing
+
+#### Day 165 - ESLR 10.1
+
+Boosting Methods
