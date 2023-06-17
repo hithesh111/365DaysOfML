@@ -675,6 +675,10 @@ Missing Data and Computational Considerations
 
 Photoshop's New AI Feature is Amazing
 
-#### Day 165 - ESLR 10.1
+#### Day 167 - ESLR 10.1
 
 Boosting Methods
+
+#### Day 168 - ESLR 10.2
+
+Boosting Fits An Additive Model
