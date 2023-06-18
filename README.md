@@ -682,3 +682,7 @@ Boosting Methods
 #### Day 168 - ESLR 10.2
 
 Boosting Fits An Additive Model
+
+#### Day 169 - ESLR 10.3
+
+Forward Stagewise Additive Model
