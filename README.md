@@ -686,3 +686,7 @@ Boosting Fits An Additive Model
 #### Day 169 - ESLR 10.3
 
 Forward Stagewise Additive Model
+
+#### Day 170 - ESLR 10.4
+
+Exponential Loss and Adaboost
