@@ -690,3 +690,7 @@ Forward Stagewise Additive Model
 #### Day 170 - ESLR 10.4
 
 Exponential Loss and Adaboost
+
+#### Day 171 - 2 Minute Papers
+
+NVIDIA's New AI: Making Games Come Alive
