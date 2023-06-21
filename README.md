@@ -694,3 +694,7 @@ Exponential Loss and Adaboost
 #### Day 171 - 2 Minute Papers
 
 NVIDIA's New AI: Making Games Come Alive
+
+#### Day 172 - ESLR 10.5
+
+Why Exponential Loss?
