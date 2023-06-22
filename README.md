@@ -698,3 +698,7 @@ NVIDIA's New AI: Making Games Come Alive
 #### Day 172 - ESLR 10.5
 
 Why Exponential Loss?
+
+#### Day 173 - ESLR 10.6
+
+Loss Functions and Robustness: Robust Loss Functions for Classification
