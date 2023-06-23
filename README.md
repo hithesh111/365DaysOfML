@@ -702,3 +702,7 @@ Why Exponential Loss?
 #### Day 173 - ESLR 10.6
 
 Loss Functions and Robustness: Robust Loss Functions for Classification
+
+#### Day 174 - ESLR 10.6: 
+
+Robust Loss Functions for Regression
