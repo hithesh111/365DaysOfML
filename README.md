@@ -706,3 +706,15 @@ Loss Functions and Robustness: Robust Loss Functions for Classification
 #### Day 174 - ESLR 10.6: 
 
 Robust Loss Functions for Regression
+
+#### Day 175 - 2 Minute Papers
+
+DeepMind AlphaDev
+
+#### Day 176 - ESLR 10.7
+
+Off the Shelf Procedures for Data Mining
+
+#### Day 177 - ESLR 10.8
+
+Example: Spam Data
