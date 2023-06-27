@@ -718,3 +718,7 @@ Off the Shelf Procedures for Data Mining
 #### Day 177 - ESLR 10.8
 
 Example: Spam Data
+
+#### Day 178 - ESLR 10.9
+
+Boosting Trees
