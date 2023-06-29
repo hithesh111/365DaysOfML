@@ -722,3 +722,7 @@ Example: Spam Data
 #### Day 178 - ESLR 10.9
 
 Boosting Trees
+
+#### Day 179 - ESLR 10.10
+
+Numerical Optimization via Gradient descent
