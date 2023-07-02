@@ -726,3 +726,12 @@ Boosting Trees
 #### Day 179 - ESLR 10.10
 
 Numerical Optimization via Gradient descent
+
+#### Day 180 - 2 Minute Papers
+
+Google's New AI: Next Level Virtual World
+
+#### Day 181 - ByCloudAI Youtube
+
+Stable Diffusion XDSL : Text To Video ZeroScope v2 and More
+
