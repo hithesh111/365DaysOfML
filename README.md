@@ -735,3 +735,22 @@ Google's New AI: Next Level Virtual World
 
 Stable Diffusion XDSL : Text To Video ZeroScope v2 and More
 
+#### Day 182- ESLR 10.10.1
+
+Steepest Descent
+
+#### Day 183 - ESLR 10.10.2
+
+Gradient Boosting
+
+#### Day 184 - ESLR 10.10.3
+
+Implementations of Gradient Boosting
+
+#### Day 185 - ESLR 10.11
+
+Right Sized Trees for Boosting
+
+#### Day 185 - ESLR 10.12
+
+Regularisation
