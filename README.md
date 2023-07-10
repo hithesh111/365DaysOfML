@@ -751,6 +751,27 @@ Implementations of Gradient Boosting
 
 Right Sized Trees for Boosting
 
-#### Day 185 - ESLR 10.12
+#### Day 186 - ESLR 10.12
 
 Regularisation
+
+#### Day 187 - 2 Minute Papers
+
+Stable Diffusion - 8 New Amazing Results
+
+#### Day 188 - 2 Minute Papers
+
+Google's New AI - Blurry Photos no More
+
+#### Day 189 - byCloudAI
+
+1 Billion Tokens LLM
+
+#### Day 190 - byCloudAI
+
+Meta's Music Gen - Text To Music
+
+#### Day 191 - byCloudAI
+
+When AI tries to Reason with itself - AutoGPT and more
+
