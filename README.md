@@ -775,3 +775,42 @@ Meta's Music Gen - Text To Music
 
 When AI tries to Reason with itself - AutoGPT and more
 
+#### Day 192 - ESLR 10.12.1
+
+Regularization - Shrinkage
+
+#### Day 193 - ESLR 10.12.2
+
+Regularization - Subsampling
+
+#### Day 194 - ESLR 10.13.1
+
+Interpretation - Relative Importance of Predictor Variables
+
+#### Day 195 - ESLR 10.13.2
+
+Partial Dependence Plots
+
+#### Day 196 - ESLR 10.14.1
+
+Illustrations - California Housing
+
+#### Day 197 - ESLR 10.14.2
+
+Illustrations - New Zealand Fish
+
+#### Day 198 - ESLR 10.14.3
+
+Illustrations - Demographics Data
+
+#### Day 199 - ESLR 11.1
+
+Introduction
+
+#### Day 200 - ESLR 11.2
+
+Projection Pursuit Regression
+
+#### Day 201 - ESLR 11.3
+
+Neural Networks
