@@ -814,3 +814,15 @@ Projection Pursuit Regression
 #### Day 201 - ESLR 11.3
 
 Neural Networks
+
+#### Day 202 - ESLR 11.4
+
+Fitting Neural Networks
+
+#### Day 203 - ESLR 11.5.1
+
+Issues in Training Neural Networks - Starting Values
+
+#### Day 204 - ESLR 11.5.2
+
+Overfitting
