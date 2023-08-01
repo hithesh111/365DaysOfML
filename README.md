@@ -826,3 +826,41 @@ Issues in Training Neural Networks - Starting Values
 #### Day 204 - ESLR 11.5.2
 
 Overfitting
+
+#### Day 205 - ESLR 11.5.3
+
+Scaling of the Inputs
+
+#### Day 206 - ESLR 11.5.4
+
+Number of Hidden Units and Layers
+
+#### Day 207 - ESLR 11.5.5
+
+Multiple Minima
+
+#### Day 208 - ESLR 11.6
+
+Simulated Data Example
+
+#### Day 209 - ESLR 11.7
+
+Zip Code Data Example
+
+#### Day 210 - ESLR 11.8
+
+Discussion on projection pursuit regression and Neural Networks
+
+#### Day 211 - 2 Minute Papers
+
+NVIDIA Did it: Ray Tracing 10000 times faster
+
+#### Day 212 - 2 Minute Papers
+
+Midjourney AI: Text to Image Supercharged
+
+#### Day 213 - 2 Minute Papers
+
+Unreal Engine 5.2: Incredible Simulations
+
+
