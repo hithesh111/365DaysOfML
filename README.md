@@ -863,4 +863,42 @@ Midjourney AI: Text to Image Supercharged
 
 Unreal Engine 5.2: Incredible Simulations
 
+#### Day 214 - ESLR 11.9
 
+Bayesian Neural Nets and the NIPS 2003 Challenge
+
+#### Day 215 - ESLR 11.9.1
+
+Bayes, Boosting and Bagging
+
+#### Day 216 - ESLR 11.9.2
+
+Performance Comparisons
+
+#### Day 217 - ESLR 11.10
+
+Computational Considerations
+
+#### Day 218 - 2 Minute Papers
+
+NVIDIA's New AI: Text to Image Supercharged!
+
+#### Day 219 - 2 Minute Papers
+
+Microsoft's AI watched 100 million Youtube Videos
+
+#### Day 220 - 2 Minute Papers
+
+NVIDIA's New AI trained for 5 billion steps
+
+#### Day 221 - 2 Minute Papers
+
+Stable Diffusion XL is here
+
+#### Day 222 - byCloudAI
+
+AI Generated South Park, Llama 2, HyperDreamBooth and More
+
+#### Day 223 - byCloudAI
+
+The Voice Cloning AIs they never tell you about (and how they work)
