@@ -902,3 +902,80 @@ AI Generated South Park, Llama 2, HyperDreamBooth and More
 #### Day 223 - byCloudAI
 
 The Voice Cloning AIs they never tell you about (and how they work)
+
+#### Day 224 - ESLR 12.1 
+
+Support Vector Machines and Flexible Discriminants: Introduction
+
+#### Day 225 - ESLR 12.2
+
+Support Vector Classifier
+
+#### Day 226 - ESLR 12.2.1
+
+Computing the Support Vector Classifier
+
+#### Day 227 - ESLR 12.2.2
+
+Mixture Example
+
+#### Day 228 - ESLR 12.3
+
+Support Vector Machines and Kernels
+
+#### Day 229 - ESLR 12.3.1
+
+Computing SVM for Classification
+
+#### Day 230 - ESLR 12.3.2
+
+SVM as a penalisation method
+
+#### Day 231 - ESLR 12.3.3
+
+Function Estimation and Reproducing Kernels
+
+#### Day 232 - ESLR 12.3.4
+
+SVMS and the Curse of Dimensionality
+
+#### Day 233 - ESLR 12.3.5
+
+A Path Algorithm for the SVM Classifier
+
+#### Day 234 - ESLR 12.3.6
+
+Support Vector Machines for Regression
+
+#### Day 235 - ESLR 12.3.7
+
+Regression and Kernels
+
+#### Day 236 - ESLR 12.4
+
+Generalizing Linear Discriminant Analysis
+
+#### Day 237 - ESLR 12.5
+
+Flexible Discriminant Analysis
+
+#### Day 238 - ESLR 12.5.1
+
+Computing the FDA estimates
+
+#### Day 239 - ESLR 12.6
+
+Penalised Discriminant Analysis
+
+#### Day 240 - ESLR 12.7
+
+Mixture Discriminant Analysis
+
+#### Day 241 - ESLR 12.7.1
+
+Example: Waveform Data
+
+#### Day 242 - ESLR 12.7
+
+Computational Considerations
+
